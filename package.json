@@ -1,0 +1,30 @@
+{
+  "author": "Benjamin Hesse",
+  "dependencies": {
+    "randomstring": "^1.1.4"
+  },
+  "description": "Simple webserver sessions middleware",
+  "devDependencies": {},
+  "keywords": [
+    "middleware",
+    "session",
+    "simple",
+    "webserver"
+  ],
+  "license": "MIT",
+  "main": "swsh.js",
+  "name": "swsh",
+  "optionalDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BenjaminHesse/swsh.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BenjaminHesse/swsh/issues"
+  },
+  "homepage": "https://github.com/BenjaminHesse/swsh#readme"
+}
